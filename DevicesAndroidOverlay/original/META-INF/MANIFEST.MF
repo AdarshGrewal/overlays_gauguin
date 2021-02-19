@@ -4,10 +4,10 @@ Name: res/drawable/ic_media_seamless.xml
 SHA-256-Digest: sOPkIhzWIotAip2cBhXun2aRdvJ9EL37EkfRskSivGA=
 
 Name: AndroidManifest.xml
-SHA-256-Digest: c0DL4CyzAsukOegVAr04XsJy6vP3hQM0Ewa9NKN9BT4=
+SHA-256-Digest: pwmjMxI8lVjPw2tOHJxMoZagNWscAg8r5RDu0DL0oZY=
 
 Name: resources.arsc
-SHA-256-Digest: UeozN+uELR1VZY+2APAT5EW+PgCtreAWFSc3Sk/x6+k=
+SHA-256-Digest: Vdlw1o4CxyjTEn9l3dp0bLhmdUVtIoFRgElv2aWGuGo=
 
 Name: res/anim/wallpaper_open_exit.xml
 SHA-256-Digest: KtcygPv4ZOe0278bitt9BlVKUTw3qqilSZthCBsYrlw=

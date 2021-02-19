@@ -1,28 +1,19 @@
 Signature-Version: 1.0
 X-Android-APK-Signed: 2
-SHA-256-Digest-Manifest: +mGVlbj5vXsRxsReR2+Hwgw2wtlunQTFdGlttVl4ewQ=
+SHA-256-Digest-Manifest: LwO2hnsA28pgrTSHRtrWjTP7yaoSYXH3VPvzR4R/KvE=
 Created-By: 1.0 (Android SignApk)
 
 Name: AndroidManifest.xml
-SHA-256-Digest: 1LWZK+6mAC8ybafWVEZrVdPDufc9EVEK6krBrgpU+ys=
+SHA-256-Digest: DbCuFC/C3XoidLXFCX3kMCu3wvPRxTZQqi2raHvchdo=
+
+Name: res/drawable-nodpi-v4/screen_round_corner_bottom.9.png
+SHA-256-Digest: +29jqle6NLK45AzqvJjdiKSwoZz1i5/ph2QxoAxgl68=
 
 Name: res/drawable-nxhdpi-v4/float_notification_bg.9.png
 SHA-256-Digest: YYqMizw6YYG8uRd/4AFVv4u5OiITfwQKStc77B+Fjb0=
 
-Name: res/drawable-nxhdpi-v4/screen_round_corner_top.9.png
-SHA-256-Digest: iIKtfxHy4v6awlRO9mak+2RFTwo+tN9b8esteSe4ICM=
-
-Name: res/drawable-nxhdpi-v4/screen_round_corner_bottom.9.png
-SHA-256-Digest: cYmmY4e/u4GO9mONo8BOaCuH542MJ5HecHnFHFlBcj8=
-
-Name: res/drawable-xxhdpi-v4/screen_round_corner_top_rot180.9.png
-SHA-256-Digest: 3p2VnRouYuWWmYDc6eUIbh+V2uuvU9fXl6FDC96m1xs=
-
-Name: res/drawable-nxhdpi-v4/screen_round_corner_top_rot90.9.png
-SHA-256-Digest: U2nPO4Hr7xEUnM7Qc5lkRWnr/eXfF6Aih1TqBIGWfJg=
-
-Name: res/drawable-xxhdpi-v4/screen_round_corner_top_rot270.9.png
-SHA-256-Digest: Hu+tJ39akQSchNLnIzjI7KLGWs9Ng6jmKhlOBarRIu8=
+Name: res/drawable-nodpi-v4/screen_round_corner_top.9.png
+SHA-256-Digest: sGw9l73TlpwaqhzETyASKmLeDVjyRfsxXpA5Uq0whcE=
 
 Name: res/drawable-nxhdpi-v4/float_incall_notification_bg.9.png
 SHA-256-Digest: EqmTs+bh7xoHGjXMp9+JK8DlwebraFsgkBXtncgKAX4=
@@ -30,33 +21,30 @@ SHA-256-Digest: EqmTs+bh7xoHGjXMp9+JK8DlwebraFsgkBXtncgKAX4=
 Name: res/drawable-nodpi-v4/force_black_top_corner_rot270.9.png
 SHA-256-Digest: OeoaA1ZdK8TYQjtHqBnee2NjdlwzXy4kj1DuFAoLYRM=
 
+Name: res/drawable-nodpi-v4/screen_round_corner_top_rot90.9.png
+SHA-256-Digest: TBxIzjpOx358A4VxYoJ5yD1TTxvJqOckRAchgYYdxcI=
+
 Name: res/drawable-nodpi-v4/force_black_top_corner_rot180.9.png
 SHA-256-Digest: 4Q3RQXjPFwNjgN0vDKjXP/J0MfWtcsn4mbFir7PxPLI=
 
 Name: res/drawable-nodpi-v4/force_black_top_corner.9.png
 SHA-256-Digest: jnRdOH6rJA6uoJ2n2M93bCErhz5DJ2rHDxNndH6QKpE=
 
-Name: res/drawable-nxhdpi-v4/screen_round_corner_top_rot180.9.png
-SHA-256-Digest: rcWo7euRgh9LXr60dLyxQYlNtDAcSaMzerzzbN/Itq4=
-
 Name: res/drawable-land-nxhdpi-v4/float_notification_bg.9.png
 SHA-256-Digest: eVTCluWd64GwEj8y2imOvOD4raXoMTUwRcJEcrBKWWw=
 
-Name: res/drawable-nxhdpi-v4/screen_round_corner_top_rot270.9.png
-SHA-256-Digest: Igz3YToqNU87MB4oYVNhGinvF+2AwIwVFn9Dmg5B4yM=
+Name: res/drawable-nodpi-v4/screen_round_corner_top_rot180.9.png
+SHA-256-Digest: NJFwTE8bYPufbNG6WzDbHpbUeNHDV87X+xxcGgz7Q0Q=
+
+Name: res/drawable-nodpi-v4/screen_round_corner_top_rot270.9.png
+SHA-256-Digest: kADHY8eRajvLForitmh5Rh27WxPWn9D/cJg/UmWt+l0=
 
 Name: resources.arsc
-SHA-256-Digest: jHjQxX1X2HGgOKw9dTskzOLAE+gFukn+rhqDCGas9Ak=
-
-Name: res/drawable-xxhdpi-v4/screen_round_corner_top_rot90.9.png
-SHA-256-Digest: XnZjFQycJxEog2AXzdkT+shAG7PUvZcesWLhVHXWNw0=
+SHA-256-Digest: rmzFGWLCa8mN2/bVyPXB9EkXxSZj/aOUOgdaMm5LhaE=
 
 Name: res/drawable-nodpi-v4/force_black_top_corner_rot90.9.png
 SHA-256-Digest: OSphtO45KH2HLlmZ7XcXfUmqDbes9Ut9EsbxChLFquI=
 
 Name: res/drawable-land-nxhdpi-v4/float_incall_notification_bg.9.png
 SHA-256-Digest: bbmTZ6KwDRQpQr/I3jjk+ewTQO+hTwHV1WReRqlFfeU=
-
-Name: res/drawable-xxhdpi-v4/screen_round_corner_top.9.png
-SHA-256-Digest: 3URygkxDVp4c8WH+zC8I8y7AOGumjNudld7XLu4yRaQ=
 

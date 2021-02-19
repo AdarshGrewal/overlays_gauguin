@@ -8,8 +8,8 @@ packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '29'
-  targetSdkVersion: '29'
+  minSdkVersion: '30'
+  targetSdkVersion: '30'
 sharedLibrary: false
 sparseResources: false
 unknownFiles: {}
@@ -19,5 +19,5 @@ usesFramework:
   tag: null
 version: 2.4.1-dirty
 versionInfo:
-  versionCode: '29'
-  versionName: '10'
+  versionCode: '30'
+  versionName: '11'

@@ -31,4 +31,6 @@
     <public type="integer" name="config_nightLightColorMaximum" id="0x7f030012" />
     <public type="integer" name="config_nightLightColorMinimum" id="0x7f030013" />
     <public type="integer" name="config_slow_ratio" id="0x7f030014" />
+    <public type="string" name="double_click_power_key" id="0x7f040000" />
+    <public type="string" name="long_press_home_key" id="0x7f040001" />
 </resources>

@@ -754,7 +754,7 @@ Name: res/drawable-xxhdpi-v4/fc_00001100_1043.webp
 SHA-256-Digest: GHzMvrsYoX8eOdtEgDvNNVx7pmcmO6ypVB0faZJTlb8=
 
 Name: AndroidManifest.xml
-SHA-256-Digest: CIlqLtrORjEDtMTNPRZg9OqXwr3z8YYij+hXhc3crIo=
+SHA-256-Digest: Drs0QfTQ0nG0Mj4pmcmzHYn5N1lMzLKfrP33uF/U03U=
 
 Name: res/drawable-xxhdpi-v4/fc_00001100_2029.webp
 SHA-256-Digest: +cEFW7bEz/pkSvf5uOOK9ciwA4+5LxSs2DWmPfu5ixk=
